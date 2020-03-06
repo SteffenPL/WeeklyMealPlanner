@@ -1,0 +1,13 @@
+name = "WeeklyMealPlanner"
+uuid = "5479218e-5fbe-11ea-23b5-4541f17a33dd"
+authors = ["Steffen Plunder"]
+version = "0.1.0"
+
+[compat]
+julia = "1.2"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
